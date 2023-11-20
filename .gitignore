@@ -12,3 +12,12 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Jerry Files
+runtime/jerry/botd.properties
+runtime/jerry/html/*
+runtime/jerry/pid/*
+runtime/jerry/script/*
+runtime/jerry/service/*
+
+

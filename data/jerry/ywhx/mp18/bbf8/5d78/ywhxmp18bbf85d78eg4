@@ -1,0 +1,1 @@
+{"data":{"attachmentkeynames":["rs"],"cmd":"start","ctl":"comfyui","desc":"","import":"use ndata::dataarray::DataArray;\nuse flowlang::flowlang::system::system_call::system_call;\n","lib":"jerry","params":[],"returntype":"String","type":"rust"},"id":"ywhxmp18bbf85d78eg4","readers":[],"time":1699727718403,"username":"system","writers":[]}

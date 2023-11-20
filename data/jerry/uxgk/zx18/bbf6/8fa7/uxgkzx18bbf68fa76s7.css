@@ -1,0 +1,17 @@
+.blaunch,.getlog {
+  vertical-align:bottom;
+  display:none;
+  height:20px;
+}
+
+.outlog{
+  max-height:134px;
+  overflow:hidden;
+  border: thin solid #0002;
+  margin-top: 4px;
+  margin-bottom: -17px;
+}
+
+.stderr{
+  color:red;
+}

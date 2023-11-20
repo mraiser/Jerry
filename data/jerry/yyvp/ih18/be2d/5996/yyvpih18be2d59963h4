@@ -1,0 +1,1 @@
+{"data":{"attachmentkeynames":["rs"],"cmd":"list_services","ctl":"jerry","desc":"","import":"use std::path::Path;\nuse flowlang::datastore::DataStore;\nuse flowlang::flowlang::file::read_all_string::read_all_string;\n","lib":"jerry","params":[],"returntype":"JSONObject","type":"rust"},"id":"yyvpih18be2d59963h4","readers":[],"time":1700335746536,"username":"system","writers":[]}
